@@ -1,0 +1,4 @@
+spacy>=3.8
+pandas>=2.2
+scikit-learn>=1.5
+openpyxl>=3.1

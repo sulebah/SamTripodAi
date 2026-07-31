@@ -1,0 +1,12 @@
+README.md
+setup.py
+TripodAI/__init__.py
+TripodAI/extractor.py
+TripodAI/models.py
+TripodAI/rules.py
+TripodAI.egg-info/PKG-INFO
+TripodAI.egg-info/SOURCES.txt
+TripodAI.egg-info/dependency_links.txt
+TripodAI.egg-info/not-zip-safe
+TripodAI.egg-info/requires.txt
+TripodAI.egg-info/top_level.txt
