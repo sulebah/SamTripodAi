@@ -1,1 +1,0 @@
-python "C:\Users\DELL\Desktop\SamTripodAi\test_samtripodai.py"
