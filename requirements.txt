@@ -1,0 +1,3 @@
+# requirements.txt
+# No external dependencies are needed for SamTripodAi
+# You can add more packages here later if needed
